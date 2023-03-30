@@ -1,3 +1,5 @@
+# :white_check_mark: SUCCESS :white_check_mark:
+
 # Leap
 
 Welcome to Leap on Exercism's Rust Track.
